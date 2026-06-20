@@ -1,0 +1,3 @@
+# Os pesos LoRA treinados (.safetensors) ficam aqui localmente.
+# Eles NÃO são versionados (ver .gitignore) — publique no Hugging Face Hub
+# e referencie via LORA_REPO_ID em config.py.

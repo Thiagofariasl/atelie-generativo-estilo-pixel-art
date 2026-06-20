@@ -1,0 +1,43 @@
+# ============================================================
+# Ateliê Generativo — dependências
+# ------------------------------------------------------------
+# Versões fixadas de forma conservadora para reprodutibilidade.
+# No Hugging Face Spaces, o torch com CUDA é provido pela imagem;
+# localmente, instale a wheel de CPU/GPU adequada ao seu sistema.
+# ============================================================
+
+# --- Interface ---
+gradio==4.44.0
+
+# --- Difusão / fine-tuning ---
+diffusers==0.30.3
+transformers==4.44.2
+accelerate==0.34.2
+peft==0.13.0
+safetensors==0.4.5
+
+# --- Backbone de deep learning ---
+# Para GPU, veja https://pytorch.org para a build correta (cuXXX).
+torch==2.4.1
+torchvision==0.19.1
+
+# --- TTS (texto -> áudio) ---
+# Backend padrão (leve). Alternativas (Coqui TTS / SpeechT5) estão comentadas
+# pois são pesadas; habilite conforme o backend escolhido em config.TTS_BACKEND.
+gTTS==2.5.3
+# TTS==0.22.0            # Coqui TTS (offline, pesado)
+# sentencepiece==0.2.0  # necessário para SpeechT5 / T5
+
+# --- Dados e imagens ---
+pandas==2.2.3
+Pillow==10.4.0
+numpy==1.26.4
+
+# --- Avaliação ---
+# CLIPScore via transformers (CLIP) — sem dependência extra além de torch.
+scikit-image==0.24.0   # métricas auxiliares de imagem (opcional)
+
+# --- Utilidades ---
+requests==2.32.3       # download de imagens em prepare_dataset.py
+tqdm==4.66.5
+pytest==8.3.3          # testes

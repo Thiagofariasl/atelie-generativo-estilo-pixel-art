@@ -1,0 +1,54 @@
+# ============================================================
+# .gitignore — Ateliê Generativo
+# ============================================================
+
+# --- Segredos (NUNCA versionar) ---
+.env
+.env.*
+*.key
+secrets.*
+hf_token*
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+build/
+dist/
+
+# --- Ambientes virtuais ---
+.venv/
+venv/
+env/
+
+# --- Pesos de modelos (grandes; usar HF Hub / Git LFS) ---
+models/**/*.safetensors
+models/**/*.bin
+models/**/*.ckpt
+models/**/*.pt
+!models/**/.gitkeep
+
+# --- Dataset: imagens grandes não vão para o git ---
+# A proveniência (fontes.csv) e as legendas SÃO versionadas; os binários, não.
+dataset/images/*
+!dataset/images/.gitkeep
+*.zip
+
+# --- Artefatos gerados em runtime ---
+outputs/*
+!outputs/.gitkeep
+
+# --- Notebooks: checkpoints ---
+.ipynb_checkpoints/
+
+# --- Caches de ML ---
+.cache/
+*.log
+wandb/
+
+# --- IDE / SO ---
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
