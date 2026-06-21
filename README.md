@@ -208,7 +208,7 @@ atelie-generativo/
 |-----------------|--------------------------------|--------------------------------|
 | Matheus Loiola  | Curadoria de dataset           | matheusloiola@sempreceub.com   |
 | Thiago Farias   | Repositório / Interface / Deploy | thiago.famaral@sempreceub.com|
-| Rodério Kunz| Treinamento LoRA / Avaliação   | roderiok@gmail.com                        |
+| Rodério Kunz| Treinamento LoRA / Avaliação   | roderiok@sempreceub.com                       |
 | _A definir_     | _A definir_                    | _email_                        |
 | _A definir_     | _A definir_                    | _email_                        |
 
