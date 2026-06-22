@@ -194,7 +194,7 @@ atelie-generativo/
 | Etapa | Descrição (roteiro do professor)                                                        | Entregável                          | Status |
 |-------|------------------------------------------------------------------------------------------|-------------------------------------|--------|
 | 0     | Organização da equipe, repositório público no GitHub e proposta do estilo visual         | Repo + estilo definido (pixel art)  | ✅     |
-| 1     | Dataset de 20–40 imagens (≥512×512) + `fontes.csv` (proveniência/licenças) e legendas    | `dataset/` + `fontes.csv`           | ⬜     |
+| 1     | Dataset de 20–40 imagens (≥512×512) + `fontes.csv` (proveniência/licenças) e legendas    | `dataset/` + `fontes.csv`           | ✅     |
 | 2     | Fine-tuning com LoRA testando **≥ 2 configurações** e justificando os hiperparâmetros    | Pesos LoRA + comparação             | ⬜     |
 | 3     | Avaliação: comparação de resultados, **CLIPScore** e **avaliação humana**                | `docs/avaliacao.md` + métricas      | ⬜     |
 | 4     | Integração texto + imagem + áudio via Gradio publicado no **Hugging Face Spaces**        | Space público funcional             | ⬜     |
