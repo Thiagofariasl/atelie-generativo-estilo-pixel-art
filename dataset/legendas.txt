@@ -1,100 +1,100 @@
-nulltale-3.png: estilo_pixel_art, a dark background with a bunch of flowers
-szadiart-2.png: estilo_pixel_art, a map of a village with a river and a small house
-crumpaloo-3.png: estilo_pixel_art, a pixel pixel pixel pixel pixel pixel pixel pixel pixel pixel pixel pixel pixel pixel pixel pixel pixel pixel pixel pixel
-mr-pixzels-1.png: estilo_pixel_art, a screenshot of a forest with a path and trees
-arex-v-1.png: estilo_pixel_art, the legend of zeo
-merchant-shade-1.png: estilo_pixel_art, a screenshot of a small town with trees and a river
-cainos-3.png: estilo_pixel_art, the map for the game, with the location of the village
-simflz-1.png: estilo_pixel_art, a pixel pixel map with a small village and a small house
-simflz-2.png: estilo_pixel_art, a screenshot of a castle with a stone floor
-simflz-5.png: estilo_pixel_art, a pixeled image of a green screen with a pink pig
-glionox-2.png: estilo_pixel_art, a screenshot of a desert with a small river and a small stream
-anokolisa-2.png: estilo_pixel_art, the village in the game, with a small house and a small pond
-nura-pixel-2.png: estilo_pixel_art, a pixel pixel pixel pixel pixel pixel pixel pixel pixel pixel pixel pixel pixel pixel pixel pixel pixel pixel pixel pixel
-jeff-1.png: estilo_pixel_art, a screenshot of a field with a few plants
-anokolisa-10.png: estilo_pixel_art, a screenshot of a small town with a horse and a horse
-jirbyart-2.png: estilo_pixel_art, a screenshot of a house with a pool and a small pool
-marceles-4.png: estilo_pixel_art, a screenshot of a castle with a tower and a gate
-largatachi-1.png: estilo_pixel_art, a map of a forest with a small lake and trees
-limezu-3.png: estilo_pixel_art, the room in the game, with the floor and walls
-anokolisa-5.png: estilo_pixel_art, a screenshot of a forest with a small house in the middle
-pixel-boy-1.png: estilo_pixel_art, a screenshot of a town with trees and buildings
-ilmenite-1.png: estilo_pixel_art, the game ' s map, with a small pond in the middle
-pixel-boy-2.png: estilo_pixel_art, a screenshot of a map with a map and a map
-nura-pixel-3.png: estilo_pixel_art, a screenshot of a castle with a tower and a door
-hoyb-1.png: estilo_pixel_art, a screenshot of a town with a lot of houses
-stardustdevelopment-1.png: estilo_pixel_art, a screenshot of a room with a door and a window
-marceles-2.png: estilo_pixel_art, the first screens of the game, showing the interior and the kitchen
-jirbyart-4.png: estilo_pixel_art, a pixel pixel pixel pixel pixel pixel pixel pixel pixel pixel pixel pixel pixel pixel pixel pixel pixel pixel pixel pixel
-retroquest-3.png: estilo_pixel_art, a pixel map with a small island in the middle
-pixel-poem-2.png: estilo_pixel_art, a screenshot of a dungeon dungeon dungeon dungeon dungeon dungeon dungeon dungeon dungeon dungeon dungeon dungeon dungeon dungeon dungeon dungeon
-retroquest-2.png: estilo_pixel_art, a pixel pixel with a river and a bridge
-marceles-5.png: estilo_pixel_art, a screenshot of a castle with a castle in the background
-ninjikin-3.png: estilo_pixel_art, a pixel style image of a man with a beard
-mattwalkden-1.png: estilo_pixel_art, the game ' s map, with several different locations and locations
-pingupollas-2.png: estilo_pixel_art, a screenshot of a room with a desk and a desk with a computer
-simflz-4.png: estilo_pixel_art, a pixel pixel in a green background
-jik-a-4-2.png: estilo_pixel_art, a pixel style picture of a woman sitting on a chair
-game-endeavor-1.png: estilo_pixel_art, a map of a small town with a pond and a small house
-arex-v-3.png: estilo_pixel_art, the legend of zeria
-simflz-3.png: estilo_pixel_art, a map with a small village and trees
-jik-a-4-1.png: estilo_pixel_art, a pixel style wallpaper with palm trees and a doorway
-crumpaloo-2.png: estilo_pixel_art, the legend of zeom
-largatachi-3.png: estilo_pixel_art, a map with a small pond and trees
-nulltale-2.png: estilo_pixel_art, the game ' s screens are all different, but they are different
-gfragger-1.png: estilo_pixel_art, a screenshot of a castle surrounded by trees
-marie-pepo-1.png: estilo_pixel_art, a screenshot of a park with trees and a pond
-merchant-shade-2.png: estilo_pixel_art, a screenshot of a group of people in a forest
-cainos-4.png: estilo_pixel_art, a map of a small town with a few buildings
-jirbyart-5.png: estilo_pixel_art, a pixel pixel art
-limezu-1.png: estilo_pixel_art, a floor plan of a house with a living room and kitchen
-crumpaloo-5.png: estilo_pixel_art, a pixel pixel game with a small castle
-toivio-1.png: estilo_pixel_art, the game ' s layout, with a brick wall and a small room
-stingraystudio-1.png: estilo_pixel_art, a pixel pixel map with a small tree and a small house
-ventilatore-5.png: estilo_pixel_art, a map of a park with trees and buildings
-pixel-boy-3.png: estilo_pixel_art, a pixel map with a small town and trees
-anokolisa-1.png: estilo_pixel_art, a small town with lots of trees and buildings
-hoyb-2.png: estilo_pixel_art, a screenshot of a village with trees and buildings
-crumpaloo-4.png: estilo_pixel_art, a pixel pixel pixel pixel pixel pixel pixel pixel pixel pixel pixel pixel pixel pixel pixel pixel pixel pixel pixel pixel
-ventilatore-3.png: estilo_pixel_art, a map of a village with a lot of trees
-pixel-poem-1.png: estilo_pixel_art, a pixel pixel pixel pixel pixel pixel pixel pixel pixel pixel pixel pixel pixel pixel pixel pixel pixel pixel pixel pixel
-nulltale-1.png: estilo_pixel_art, a pixel pixel art
-pingupollas-3.png: estilo_pixel_art, a screenshot of a dungeon dungeon
-ansimuz-1.png: estilo_pixel_art, a map of the island
-anokolisa-11.png: estilo_pixel_art, a small house in the middle of a forest
-cainos-2.png: estilo_pixel_art, a map with a stone path and a stone path
-crumpaloo-6.png: estilo_pixel_art, the game ' s screens are very simple, but they are very simple
-arex-v-2.png: estilo_pixel_art, the legend of zeria
-glionox-1.png: estilo_pixel_art, a screenshot of a desert with palm trees and a lake
-anokolisa-3.png: estilo_pixel_art, a room with several different rooms and furniture
-rolff-1.png: estilo_pixel_art, a room with a cat and a bookcase
-stingraystudio-2.png: estilo_pixel_art, a pixel map with a small island and a small village
-marceles-1.png: estilo_pixel_art, a map of a hospital with a hospital and a hospital
-hoyb-3.png: estilo_pixel_art, a screenshot of a house surrounded by a lot of skulls
-largatachi-4.png: estilo_pixel_art, a pixel pixel map with a small village and a small village
-gfragger-2.png: estilo_pixel_art, a screenshot of a town with a lot of buildings
-devrenan-1.png: estilo_pixel_art, a screenshot of a dungeon dungeon
-crumpaloo-1.png: estilo_pixel_art, a pixel map with a man in a suit and a hat
-stardustdevelopment-2.png: estilo_pixel_art, a pixel pixel pixel pixel pixel pixel pixel pixel pixel pixel pixel pixel pixel pixel pixel pixel pixel pixel pixel pixel
-szadiart-1.png: estilo_pixel_art, a map of a small town with a small house
-marceles-6.png: estilo_pixel_art, a screenshot of a castle with a tower and a tower
-jirbyart-1.png: estilo_pixel_art, a pixel house in the woods
-limezu-kitchen-1.png: estilo_pixel_art, the floor plan for the apartment
-stardustdevelopment-3.png: estilo_pixel_art, a pixel pixel art
-ninjikin-2.png: estilo_pixel_art, a screenshot of a cave with a green ball in the middle
-anokolisa-4.png: estilo_pixel_art, the game ' s screens are all different, but they are different
-pingupollas-1.png: estilo_pixel_art, the dungeon dungeon screenshote
-ventilatore-4.png: estilo_pixel_art, a map of a village with a river and a small island
-jirbyart-3.png: estilo_pixel_art, a room with a bed and a bookcase
-limezu-2.png: estilo_pixel_art, a pixel pixel art of a room with a cat and a dog
-limezu-5.png: estilo_pixel_art, the game ' s floor plan, with the room and living area
-anokolisa-6.png: estilo_pixel_art, a screenshot of a forest with trees and rocks
-limezu-4.png: estilo_pixel_art, a room with a bunch of objects and a bunch of objects
-simflz-6.png: estilo_pixel_art, a pixel map with a farm and a pond
-ventilatore-2.png: estilo_pixel_art, a map of a small town with lots of trees
-nura-pixel-1.png: estilo_pixel_art, a pixel pixel pixel pixel pixel pixel pixel pixel pixel pixel pixel pixel pixel pixel pixel pixel pixel pixel pixel pixel
-gfragger-3.png: estilo_pixel_art, a screenshot of a village with a horse and a man
-ninjikin-1.png: estilo_pixel_art, a pixel pixel in the dark
-retroquest-1.png: estilo_pixel_art, a screenshot of a forest with a path and trees
-largatachi-2.png: estilo_pixel_art, a pixel pixel map with a small house and a small house
-petricakegames-1.png: estilo_pixel_art, a screenshot of a game with a red background
+anokolisa-1.png: estilo_pixel_art, cena em pixel art com fazenda, estufa, plantações, espantalhos, árvores e personagem agricultor.
+anokolisa-2.png: estilo_pixel_art, cena em pixel art com cabana rural, rio, píer, horta cultivada e personagem agricultor.
+anokolisa-3.png: estilo_pixel_art, cena em pixel art com taverna medieval, salão de refeições, cozinha, hóspedes e quartos.
+anokolisa-4.png: estilo_pixel_art, cena em pixel art com masmorra sombria, celas, grades, manchas de sangue e corredores subterrâneos.
+anokolisa-5.png: estilo_pixel_art, cena em pixel art com floresta montanhosa, trilhas, pinheiros, flores silvestres e entrada de mina.
+anokolisa-6.png: estilo_pixel_art, cena em pixel art com floresta nevada, pinheiros, afloramentos rochosos e cristais de gelo.
+anokolisa-10.png: estilo_pixel_art, cena em pixel art com oficina de ferraria, bigornas, forjas, ferramentas e área artesanal ao ar livre.
+anokolisa-11.png: estilo_pixel_art, cena em pixel art com cabana de madeira, clareira florestal e personagem explorador.
+limezu-1.png: estilo_pixel_art, cena em pixel art com interior residencial japonês, móveis tradicionais, decoração minimalista e personagem central.
+limezu-2.png: estilo_pixel_art, cena em pixel art com museu de paleontologia, fósseis, esqueletos pré-históricos e visitantes observando exposições.
+limezu-3.png: estilo_pixel_art, cena em pixel art com museu, artefatos históricos, esculturas expostas e área de recepção.
+limezu-4.png: estilo_pixel_art, cena em pixel art com academia, equipamentos de musculação, sacos de treino e praticantes exercitando-se.
+limezu-5.png: estilo_pixel_art, loja de roupas com clientes, manequins, prateleiras, acessórios, balcão de atendimento e provadores.
+jeff-1.png: estilo_pixel_art, plantação cercada com fileiras de milho maduro em terreno agrícola organizado.
+ansimuz-1.png: estilo_pixel_art, mapa com três ilhas, fortaleza murada, montanhas, floresta densa, torre, caminhos e oceano.
+ventilatore-2.png: estilo_pixel_art, vilarejo medieval murado com casas, mercado, moinho, hortas, rio e floresta circundante.
+ventilatore-3.png: estilo_pixel_art, cena em pixel art com torre mágica, vila florestal, cristais coloridos e construções medievais.
+ventilatore-4.png: estilo_pixel_art, cena em pixel art com vila costeira, plantações, mercado, cais, praia e construções rurais.
+ventilatore-5.png: estilo_pixel_art, cena em pixel art com vila florestal, rio, ponte de pedra, mercado e construções medievais.
+arex-v-1.png: estilo_pixel_art, cena em pixel art com ruínas subterrâneas, esqueletos, armadilhas, água rasa e exploradores em masmorra.
+arex-v-1.png: estilo_pixel_art, cena em pixel art com masmorra antiga, corredor elevado, tochas, vasos, tesouro e criatura gelatinosa.
+arex-v-1.png: estilo_pixel_art, cena em pixel art com ruínas subterrâneas, esqueletos, armadilhas, água rasa e exploradores em masmorra.
+mattwalkden-1.png: estilo_pixel_art, cena em pixel art com batalha tática, exércitos rivais, fortaleza, rio e movimentação estratégica por turnos.
+marceles-1.png: estilo_pixel_art, cena em pixel art com complexo laboratorial futurista, salas técnicas, tanques, jardins internos e pesquisadores.
+marceles-2.png: estilo_pixel_art, cena em pixel art com laboratório futurista, equipamentos científicos, tanques experimentais e áreas de pesquisa tecnológica.
+marceles-4.png: estilo_pixel_art, cemitério simétrico com lápide central, altar, passarela de pedra, grades, tochas e entrada principal.
+marceles-5.png: estilo_pixel_art, cena em pixel art com cemitério assombrado, mausoléu, árvores secas, fantasma e ruínas macabras.
+marceles-6.png: estilo_pixel_art, cena em pixel art com cemitério sombrio, mausoléu, lápides, árvores secas e decoração temática de Halloween.
+pixel-poem-1.png: estilo_pixel_art, masmorra em cruz com cavaleiro, esqueletos, baús, poções, altar, tochas e salas interligadas.
+pixel-poem-2.png: estilo_pixel_art, sala de masmorra com aventureiro, cela gradeada, tochas, piso de pedra e esqueletos inimigos.
+cainos-2.png: estilo_pixel_art, ruínas antigas com pátio de pedra, fonte circular, escadaria, estátua, vasos e árvores.
+cainos-3.png: estilo_pixel_art, cena em pixel art com ruínas muradas, caminhos de pedra, barris, vegetação e estruturas antigas.
+cainos-4.png: estilo_pixel_art, cena em pixel art com ruínas muradas, túmulos, caminhos de pedra, árvores e construções antigas.
+ninjikin-1.png: estilo_pixel_art, cena em pixel art com caverna subterrânea, portão metálico, rochas escarpadas e armadilhas de espinhos.
+ninjikin-2.png: estilo_pixel_art, cena em pixel art com câmara subterrânea, criatura gelatinosa, ossadas espalhadas e ambiente de masmorra.
+ninjikin-3.png: estilo_pixel_art, cena em pixel art com caverna subterrânea, corredores rochosos, passagens estreitas e entrada de masmorra.
+simflz-1.png: estilo_pixel_art, cena em pixel art com vila rural, casas coloridas, fonte central, árvores e caminhos comunitários.
+simflz-2.png: estilo_pixel_art, cena em pixel art com masmorra de pedras, baú do tesouro, barris, tochas e passagens subterrâneas.
+simflz-3.png: estilo_pixel_art, cena em pixel art com horta cercada, agricultores cultivando vegetais e ambiente rural arborizado.
+simflz-4.png: estilo_pixel_art, cena em pixel art com curral cercado, vacas, fardos de feno e bebedouro rural.
+simflz-5.png: estilo_pixel_art, cena em pixel art com chiqueiro cercado, porcos, bebedouros e fardos de feno.
+simflz-6.png: estilo_pixel_art, cena em pixel art com vila rural, lago, curral bovino, horta e moradores.
+mr-pixzels-1.png: estilo_pixel_art, cena em pixel art com trilha florestal, árvores, aventureiros e pequenas criaturas em ambiente natural.
+marie-pepo-1.png: estilo_pixel_art, cena em pixel art com trilha florestal outonal, árvores coloridas, bancos, lagoas e áreas de descanso.
+szadiart-1.png: estilo_pixel_art, cena em pixel art com vila nevada, cabanas de madeira, rios congelados e paisagem invernal.
+szadiart-2.png: estilo_pixel_art, cena em pixel art com cabana rural, plantações, rio, ponte de madeira e paisagem campestre.
+stingraystudio-1.png: estilo_pixel_art, cena em pixel art com horta agrícola, pomar frutífero, canteiros cultivados e cais sobre a água.
+stingraystudio-2.png: estilo_pixel_art, cena em pixel art com ilha agrícola, espantalho místico, vaca, gato, barco e canteiros cultiváveis.
+petricakegames-1.png: estilo_pixel_art, cena em pixel art com altar colossal, caminho cerimonial, pilares de pedra e ambiente místico.
+game-endeavor-1.png: estilo_pixel_art, cena em pixel art com cabana simples, lago ornamental, quarto modesto e personagem explorador.
+stardustdevelopment-1.png: estilo_pixel_art, cena em pixel art com dojo iluminado, tatames, espadas decorativas e ambiente de treinamento oriental.
+stardustdevelopment-2.png: estilo_pixel_art, cena em pixel art com salão oriental, altar decorativo, iluminação suave e elementos tradicionais japoneses.
+stardustdevelopment-3.png: estilo_pixel_art, cena em pixel art com sala ritualística, estátua imponente, lanternas orientais e atmosfera mística.
+nulltale-1.png: estilo_pixel_art, cena em pixel art com portal monstruoso, aventureiro, enigmas, tochas e entrada sombria de masmorra.
+nulltale-2.png: estilo_pixel_art, cena em pixel art com corredor de templo sombrio, aventureiro, altares antigos e atmosfera enigmática.
+nulltale-3.png: estilo_pixel_art, cena em pixel art com chefe demoníaco ocular, aventureiro, criaturas corrompidas e combate em masmorra sombria.
+merchant-shade-1.png: estilo_pixel_art, cena em pixel art com mapa estratégico, heróis aventureiros, floresta, rio, pontes e monstros espalhados.
+merchant-shade-2.png: estilo_pixel_art, cena em pixel art com bestiário fantástico, criaturas elementais, monstros mágicos e floresta simétrica.
+largatachi-1.png: estilo_pixel_art, cena em pixel art com fazenda cercada, canteiros preparados, lago, caixas e personagem agricultor.
+largatachi-2.png: estilo_pixel_art, cena em pixel art com vila ribeirinha, ponte de madeira, casas urbanas e paisagem arborizada.
+largatachi-3.png: estilo_pixel_art, cena em pixel art com horta organizada, agricultor, lago, mudas cultiváveis e colheitas variadas.
+largatachi-4.png: estilo_pixel_art, cena em pixel art com curral misto, galinhas, porcos, ovelhas, bovinos e ambiente campestre cercado.
+hoyb-1.png: estilo_pixel_art, vila rural monocromática em pixel art com casas, cabana de madeira, árvores alinhadas, cercas, caminhos, personagem, baú e elementos campestres.
+hoyb-2.png: estilo_pixel_art, vila monocromática com praça central, casas, mercado, poço, árvores alinhadas, galinhas e personagens.
+hoyb-3.png: estilo_pixel_art, prédio central clássico cercado por árvores, banco, poste, placa e personagens em praça monocromática.
+nura-pixel-1.png: estilo_pixel_art, cais de pedra com caixas, barris, passarela de madeira, grade metálica e canal de água.
+nura-pixel-2.png: estilo_pixel_art, corredor subterrâneo com canal verde, ponte de madeira, caixas, jarro e grades metálicas.
+nura-pixel-3.png: estilo_pixel_art, esgoto subterrâneo com canal vermelho, passarela de madeira, grades, vasos, caixas e piso de pedra.
+retroquest-1.png: estilo_pixel_art, trilha em floresta verde com flores, árvores, placa, penhasco, tronco caído e slime azul.
+retroquest-2.png: estilo_pixel_art, ponte de madeira sobre rio com cachoeiras, penhascos gramados, placa, pinheiro, flores e pedra rúnica.
+retroquest-3.png: estilo_pixel_art, aventureiro em clareira verde com flores, baú oculto, placa, pinheiros, penhascos e rios com cachoeiras.
+jirbyart-1.png: estilo_pixel_art, cabana acolhedora na floresta com banco, barris, flores, personagem cúbico e caminho de pedras.
+jirbyart-2.png: estilo_pixel_art, vila portuária com cais, casas, personagem cúico, placas, cercas e lago conectado por canais.
+jirbyart-3.png: estilo_pixel_art, interior de casa com cama, estantes, mesa, cadeiras e personagem cúbico sobre piso de madeira.
+jirbyart-4.png: estilo_pixel_art, forja cercada por vegetação, com fornalha acesa, bigorna, poço, placa e personagem empunhando picareta.
+jirbyart-5.png: estilo_pixel_art, ilha com árvore monumental cercada por água, observada por dois personagens em calçadão urbano.
+glionox-1.png: estilo_pixel_art, deserto com palmeiras, lago oasis, arbustos dispersos, pedras e vegetação esparsa sobre dunas.
+glionox-2.png: estilo_pixel_art, deserto rochoso com lagoas, palmeiras, afloramentos, arbustos secos e esqueleto sobre terreno arenoso.
+crumpaloo-1.png: estilo_pixel_art, interior de cabana com cama, estantes, armário, tapete, tochas e personagem encapuzado.
+crumpaloo-2.png: estilo_pixel_art, mapa costeiro com vila, cais, lojas, canais, estradas, interiores visíveis e título do jogo.
+crumpaloo-3.png: estilo_pixel_art, arsenal medieval com armas expostas, balcão, estantes, tapete vermelho e personagem atendente.
+crumpaloo-4.png: estilo_pixel_art, loja de alquimia com poções coloridas, balcão, estantes, pergaminhos e personagem atendente.
+crumpaloo-5.png: estilo_pixel_art, taverna medieval com balcão, barris, estantes, mesas, pergaminho e personagem central.
+crumpaloo-6.png: estilo_pixel_art, jardim murado com árvore, arbustos, pedras, personagem encapuzado e caminhos de pedra.
+devrenan-1.png: estilo_pixel_art, casa mobiliada com quarto, mesa, personagem, árvores, postes iluminados e caminho cercado por vegetação.
+rolff-1.png: estilo_pixel_art, interior aconchegante com estantes de livros, sofá, tapete e pequeno rato centralizado.
+jik-a-4-1.png: estilo_pixel_art, pirâmide monumental no deserto cercada por palmeiras, colunas ornamentadas e areia dourada.
+jik-a-4-2.png: estilo_pixel_art, esfinge egípcia monumental entre obeliscos ornamentados, em cenário desértico com estética arqueológica clássica.
+pingupollas-1.png: estilo_pixel_art, artefato cerebral suspenso por correntes em câmara sombria, com pedestal rúnico e atmosfera misteriosa.
+pingupollas-2.png: estilo_pixel_art, biblioteca sombria com altares, estantes, livros dispersos, estátuas encapuzadas e mesa central ritualística.
+pingupollas-3.png: estilo_pixel_art, câmara ritual subterrânea com pedestal central, chamas, obeliscos, urnas e atmosfera arqueológica sombria.
+pixel-boy-1.png: estilo_pixel_art, vila cercada por cercas com casas simples, vegetação esparsa e personagens em ambiente rural.
+pixel-boy-2.png: estilo_pixel_art, clareira chuvosa cercada por floresta, com criaturas verdes, fogueira apagada e vegetação dispersa.
+pixel-boy-3.png: estilo_pixel_art, aldeia em ruínas cercada por floresta, com casas cobertas por musgo, colunas antigas e caminhos de pedra.
+ilmenite-1.png: estilo_pixel_art, caminho rural entre árvores e lago, com personagem, pedras, vegetação densa e criaturas gelatinosas.
+gfragger-1.png: estilo_pixel_art, santuário antigo na floresta com altares, obeliscos, ruínas, velas e artefatos luminosos.
+gfragger-2.png: estilo_pixel_art, mercado rural ao ar livre com carroças, barracas, mesas, mercadorias e caminhos entre árvores.
+gfragger-3.png: estilo_pixel_art, feira campestre com barracas, ponte sobre rio, área de acampamento e mesas entre árvores.
+limezu-kitchen-1.png: estilo_pixel_art, interiores domésticos com cozinhas equipadas, mesas, escadas, móveis modernos e decoração residencial organizada.
+toivio-1.png: estilo_pixel_art, sala ampla com mesas organizadas, papéis espalhados, objetos no chão e máquina de venda automática.
