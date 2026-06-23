@@ -31,7 +31,6 @@ models/**/*.pt
 
 # --- Dataset: imagens grandes não vão para o git ---
 # A proveniência (fontes.csv) e as legendas SÃO versionadas; os binários, não.
-dataset/images/*
 !dataset/images/.gitkeep
 *.zip
 

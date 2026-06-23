@@ -1,3 +1,0 @@
-# Coloque aqui as 20–40 imagens de pixel art (>= 512x512).
-# As imagens NÃO são versionadas (ver .gitignore) — a proveniência fica em
-# fontes.csv e as legendas de treino em metadata.jsonl (gerado por prepare_dataset.py).
