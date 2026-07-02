@@ -210,7 +210,7 @@ atelie-generativo/
 | Thiago Farias   | Repositório / Interface / Deploy | thiago.famaral@sempreceub.com|
 | Rodério Kunz| Treinamento LoRA / Avaliação   | roderiok@sempreceub.com                       |
 | Sabrina Santos Sousa | Treinamento LoRA / Avaliação | sabrina.santos@sempreceub.com | 
-| Rafael Moreira Ferreira      | Treinamento LoRA / Avaliação                    | rfmoreira2@gmail.com                        |
+| Rafael Moreira Ferreira      | Treinamento LoRA / Avaliação                    | rafaelm.ferreira@sempreceub.com                        |
 
 **Professor:** Romes Heriberto.
 
