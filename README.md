@@ -204,9 +204,8 @@ atelie-generativo/
 
 ## 🚀 Spaces publicados
 
-Cada integrante publica seu próprio Space no Hugging Face com o pipeline completo
-(LLM → Stable Diffusion + LoRA → TTS → Gradio). Os links abaixo são atualizados
-conforme cada deploy é concluído.
+Link para o Space no Hugging Face com o pipeline completa
+(LLM → Stable Diffusion + LoRA → TTS → Gradio).
 
 | Integrante | Space (Hugging Face) | Status |
 |---|---|---|
