@@ -202,6 +202,22 @@ atelie-generativo/
 
 ---
 
+## 🚀 Spaces publicados
+
+Cada integrante publica seu próprio Space no Hugging Face com o pipeline completo
+(LLM → Stable Diffusion + LoRA → TTS → Gradio). Os links abaixo são atualizados
+conforme cada deploy é concluído.
+
+| Integrante | Space (Hugging Face) | Status |
+|---|---|---|
+| Matheus Loiola | [🔗 inserir link](https://huggingface.co/spaces) | ⬜ pendente |
+| Thiago Farias | [🔗 inserir link](https://huggingface.co/spaces) | ⬜ pendente |
+| Rodério Kunz | [🔗 inserir link](https://huggingface.co/spaces) | ⬜ pendente |
+| Sabrina Santos Sousa | [🔗 inserir link](https://huggingface.co/spaces) | ⬜ pendente |
+| Rafael Moreira Ferreira | [🔗 inserir link](https://huggingface.co/spaces/rfmoreira/atelie-multimodal-pixelart) | ✅ pendente |
+
+---
+
 ## 👥 Equipe
 
 | Nome            | Função (sugerida)              | Contato                        |
