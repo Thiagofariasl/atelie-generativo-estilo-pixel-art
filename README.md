@@ -210,10 +210,10 @@ Link para o Space no Hugging Face com o pipeline completa
 | Integrante | Space (Hugging Face) | Status |
 |---|---|---|
 | Matheus Loiola | [🔗 inserir link](https://huggingface.co/spaces) | ⬜ pendente |
-| Thiago Farias | [🔗 inserir link](https://huggingface.co/spaces) | ⬜ pendente |
-| Rodério Kunz | [🔗 inserir link](https://huggingface.co/spaces) | ⬜ pendente |
+| Thiago Farias | [🔗 inserir link](https://huggingface.co/spaces/Thiagofariasl/atelie-multimodal-pixelart) | ✅ publicado |
+| Rodério Kunz | [🔗 inserir link](https://huggingface.co/spaces/roderiok/atelie-multimodal-pixelart) | ✅ publicado |
 | Sabrina Santos Sousa | [🔗 inserir link](https://huggingface.co/spaces) | ⬜ pendente |
-| Rafael Moreira Ferreira | [🔗 inserir link](https://huggingface.co/spaces/rfmoreira/atelie-multimodal-pixelart) | ✅ pendente |
+| Rafael Moreira Ferreira | [🔗 inserir link](https://huggingface.co/spaces/rfmoreira/atelie-multimodal-pixelart) | ✅ publicado |
 
 ---
 
