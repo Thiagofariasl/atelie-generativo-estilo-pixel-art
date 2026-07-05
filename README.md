@@ -249,7 +249,39 @@ Este projeto adota as seguintes diretrizes (detalhadas em [docs/etica.md](docs/e
 
 ---
 
+## 🙏 Agradecimentos
+
+Agradecemos aos seguintes autores pela criação e uso das imagens utilizadas no treinamento dos modelos:
+
+Anokolisa, Ansimuz, Arex V, Cainos, Crumpaloo, Devrenan, Game Endeavor, Gfragger, Glionox, Hoyb, Ilmenite, Jeff, Jik a 4, Jirbyart, Marie Pepo, Marceles, MattWalkden, Merchant Shade, Mr Pixelz, Ninjikin, Nura Pixel, Nulltale, Petricakegames, Pingupollas, Pixel Boy, Pixel Poem, Retroquest, Rolff, Simflz, Stardustdevelopment, Stingraystudio, Szadiart, Toivio, Ventilatore, Largatachi, Limezu.
+
+A proveniência completa de cada imagem pode ser consultada em [`dataset/fontes.csv`](dataset/fontes.csv).
+
+---
+
 ## 📜 Licença
 
-Defina a licença do projeto (sugestão: MIT para o código; o dataset segue as licenças
-individuais listadas em `fontes.csv`).
+Este projeto é dividido em duas partes com licenças distintas:
+
+### Código
+Todo o código-fonte do projeto (scripts Python, configurações, notebooks, etc.) é licenciado sob
+a **licença MIT**. Você é livre para usar, modificar e distribuir este código, desde que inclua
+uma cópia da licença MIT.
+
+### Dataset
+O dataset de imagens (`dataset/images/`) segue as licenças **individuais de cada imagem**, todas
+registradas em [`dataset/fontes.csv`](dataset/fontes.csv). Antes de usar qualquer imagem do
+dataset, consulte o arquivo `fontes.csv` para verificar:
+
+- **Licença específica** de cada imagem
+- **Crédito ao autor** original
+- **Restrições de uso** (comercial/não-comercial)
+- **URL de origem** para mais informações
+
+**Resumo de licenças presentes no dataset:**
+- Creative Commons (CC0, CC-BY, CC-BY-ND)
+- Domínio público
+- Uso gratuito (com ou sem restrições comerciais)
+- Licenças proprietárias específicas por autor
+
+Respeite as licenças individuais ao usar o dataset em seus projetos.
