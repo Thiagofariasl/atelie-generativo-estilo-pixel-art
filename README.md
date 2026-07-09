@@ -209,11 +209,11 @@ Link para o Space no Hugging Face com o pipeline completa
 
 | Integrante | Space (Hugging Face) | Status |
 |---|---|---|
-| Matheus Loiola | [🔗 inserir link](https://huggingface.co/spaces/loioladev/atelie-generativo-pixel-art) | ✅ publicado |
-| Thiago Farias | [🔗 inserir link](https://huggingface.co/spaces/Thiagofariasl/atelie-multimodal-pixelart) | ✅ publicado |
-| Rodério Kunz | [🔗 inserir link](https://huggingface.co/spaces/roderiok/atelie-multimodal-pixelart) | ✅ publicado |
+| Matheus Loiola | [🔗 Space](https://huggingface.co/spaces/loioladev/atelie-generativo-pixel-art) | ✅ publicado |
+| Thiago Farias | [🔗 Space](https://huggingface.co/spaces/Thiagofariasl/atelie-multimodal-pixelart) | ✅ publicado |
+| Rodério Kunz | [🔗 Space](https://huggingface.co/spaces/roderiok/atelie-multimodal-pixelart) | ✅ publicado |
 | Sabrina Santos Sousa | [🔗 inserir link](https://huggingface.co/spaces) | ⬜ pendente |
-| Rafael Moreira Ferreira | [🔗 inserir link](https://huggingface.co/spaces/rfmoreira/atelie-multimodal-pixelart) | ✅ publicado |
+| Rafael Moreira Ferreira | [🔗 Space](https://huggingface.co/spaces/rfmoreira/atelie-multimodal-pixelart) | ✅ publicado |
 
 ---
 
@@ -221,7 +221,7 @@ Link para o Space no Hugging Face com o pipeline completa
 
 | Nome            | Função (sugerida)              | Contato                        |
 |-----------------|--------------------------------|--------------------------------|
-| Matheus Loiola  | Curadoria de dataset / Treinamento LoRA / Interface / Deploy      | matheusloiola@sempreceub.com   |
+| Matheus Loiola  | Curadoria de dataset / Treinamento LoRA / Interface      | matheusloiola@sempreceub.com   |
 | Thiago Farias   | Repositório / Interface / Deploy | thiago.famaral@sempreceub.com|
 | Rodério Kunz| Treinamento LoRA / Avaliação   | roderiok@sempreceub.com                       |
 | Sabrina Santos Sousa | Treinamento LoRA / Avaliação | sabrina.santos@sempreceub.com | 
