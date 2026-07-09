@@ -209,7 +209,7 @@ Link para o Space no Hugging Face com o pipeline completa
 
 | Integrante | Space (Hugging Face) | Status |
 |---|---|---|
-| Matheus Loiola | [🔗 inserir link](https://huggingface.co/spaces) | ⬜ pendente |
+| Matheus Loiola | [🔗 inserir link](https://huggingface.co/spaces/loioladev/atelie-generativo-pixel-art) | ✅ publicado |
 | Thiago Farias | [🔗 inserir link](https://huggingface.co/spaces/Thiagofariasl/atelie-multimodal-pixelart) | ✅ publicado |
 | Rodério Kunz | [🔗 inserir link](https://huggingface.co/spaces/roderiok/atelie-multimodal-pixelart) | ✅ publicado |
 | Sabrina Santos Sousa | [🔗 inserir link](https://huggingface.co/spaces) | ⬜ pendente |
@@ -221,15 +221,13 @@ Link para o Space no Hugging Face com o pipeline completa
 
 | Nome            | Função (sugerida)              | Contato                        |
 |-----------------|--------------------------------|--------------------------------|
-| Matheus Loiola  | Curadoria de dataset           | matheusloiola@sempreceub.com   |
+| Matheus Loiola  | Curadoria de dataset / Treinamento LoRA / Interface / Deploy      | matheusloiola@sempreceub.com   |
 | Thiago Farias   | Repositório / Interface / Deploy | thiago.famaral@sempreceub.com|
 | Rodério Kunz| Treinamento LoRA / Avaliação   | roderiok@sempreceub.com                       |
 | Sabrina Santos Sousa | Treinamento LoRA / Avaliação | sabrina.santos@sempreceub.com | 
 | Rafael Moreira Ferreira      | Treinamento LoRA / Avaliação                    | rafaelm.ferreira@sempreceub.com                        |
 
 **Professor:** Romes Heriberto.
-
-> Complete com os integrantes restantes e ajuste as funções conforme a divisão real.
 
 ---
 
