@@ -198,7 +198,7 @@ atelie-generativo/
 | 2     | Fine-tuning com LoRA testando **≥ 2 configurações** e justificando os hiperparâmetros    | Pesos LoRA + comparação             | ✅     |
 | 3     | Avaliação: comparação de resultados, **CLIPScore** e **avaliação humana**                | `docs/avaliacao.md` + métricas      | ✅     |
 | 4     | Integração texto + imagem + áudio via Gradio publicado no **Hugging Face Spaces**        | Space público funcional             | ✅     |
-| 5     | Relatório final em PDF (com **reflexão ética**) + **Demo Day** (12 min + 5 de arguição)  | PDF + apresentação                  | ⬜     |
+| 5     | Relatório final em PDF (com **reflexão ética**) + **Demo Day** (12 min + 5 de arguição)  | PDF + apresentação                  | ✅     |
 
 ---
 
