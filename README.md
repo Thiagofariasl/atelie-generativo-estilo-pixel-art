@@ -212,7 +212,7 @@ Link para o Space no Hugging Face com o pipeline completa
 | Matheus Loiola | [🔗 Space](https://huggingface.co/spaces/loioladev/atelie-generativo-pixel-art) | ✅ publicado |
 | Thiago Farias | [🔗 Space](https://huggingface.co/spaces/Thiagofariasl/atelie-multimodal-pixelart) | ✅ publicado |
 | Rodério Kunz | [🔗 Space](https://huggingface.co/spaces/roderiok/atelie-multimodal-pixelart) | ✅ publicado |
-| Sabrina Santos Sousa | [🔗 inserir link](https://huggingface.co/spaces) | ⬜ pendente |
+| Sabrina Santos Sousa | [🔗 Space](https://huggingface.co/spaces/sabrina-ceub/atelie-multimodal-pixelart) | ✅ publicado |
 | Rafael Moreira Ferreira | [🔗 Space](https://huggingface.co/spaces/rfmoreira/atelie-multimodal-pixelart) | ✅ publicado |
 
 ---
